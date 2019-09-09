@@ -5,7 +5,7 @@ Usage:
 
 run demo.m in folder "Restricted-Gibbs".
 
-
+Tested on matlab 2019a.
 
 
 
